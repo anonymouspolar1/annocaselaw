@@ -1,0 +1,472 @@
+case_id,file_name,outcome
+0001,0001_Caselaw_AZ_1490855-Sasha.json,reverse
+0002,0002_Caselaw_Alaska_11695007-Sasha.json,affirm
+0029,0029-nm_119_609-Torres v State-Sasha.json,reverse
+0032,0032-nm_118_685-Baer v Regents of the University-Sasha.json,mixed
+0033,0033-nm_118_385-Diaz ex rel Diaz v Feil-Sasha.json,mixed
+0036,0036-nm_107_251-Cross v City of Clovis-Sasha.json,reverse
+0091,0091-nm_108_696-Roderick v Lake-Sasha.json,affirm
+0101,0101-nm_107_76-Sheraden v Black-Sasha.json,affirm
+0103,0103-nm_107_707-Corlett ex rel. Estate of Bishop v. Smith-Sasha.json,affirm
+0104,0104-nm_103_243-Davila ex rel Taylor v Bodelson-Sasha.json,affirm
+0105,"0105-nm_120_751-Yardman v San Juan Downs, Inc-Sasha.json",reverse
+0110,0110-nm_96_45-Eis v Chesnut-Sasha.json,reverse
+0113,0113-nm_100_322-State v Williams-Sasha.json,affirm
+0114,0114-nm_100_794-McNeely v Henry-Sasha.json,reverse
+0118,0118-nm_121_120-Parker v EI Du Pont-Sasha.json,affirm
+0120,0120_nm_94_562-O’Brien v Middle Rio-Sasha.json,affirm
+0121,0121_nm_94_459-Strickland v Roosevelt-Sasha.json,reverse
+0124,0124-nm_105_487-Thompson v Ruidoso-Sunland-Sasha.json,affirm
+0126,0126-nm_101_129-Armijo v Albuquerque Anesthesia-Sasha.json,affirm
+0129,0129-nm_117_217-Blea v City of Espanola-Sasha.json,mixed
+0131,0131-nm_117_623-Reichert v Atler-Sasha.json,affirm
+0132,0132-nm_117_445-Mireles v Broderick-Sasha.json,reverse
+0134,0134-nm_92_224-Gabaldon v Sanchez-Sasha.json,reverse
+0140,0140-nm_91_677-Mercer v Flats-Sasha.json,affirm
+0141,0141-nm_91_639-Cupps v Southwestern Public Service-Sasha.json,affirm
+0143,0143-nm_102_11-Greiser v Brown-Sasha.json,reverse
+0146,0146-nm_100_494-LeBlanc v Northern Colfax County Hospital-Sasha.json,reverse
+0148,0148-nm_100_564-Toppino v Herhahn-Sasha.json,mixed
+0151,0151-nm_96_274-Methola v County of Eddy-Sasha.json,affirm
+0153,0153-nm_120_372-Brooks v Beech Aircraft Corp-Sasha.json,reverse
+0173,0173-nm_114_465-Stetz v Skaggs Drug Centers-Sasha.json,mixed
+0174,0174-nm_114_333-Clay v Ferrellgas-Sasha.json,mixed
+0175,0175-nm_112_291-Romero v State-Sasha.json,reverse
+0178,0178-nm_113_736-Estate of Johnson v Sears-Sasha.json,affirm
+0183,0183-nm_116_365-Dunleavy v Miller-Sasha.json,reverse
+0186,0186-nm_111_767-Estate of Sutherlin v Fenenga-Sasha.json,reverse
+0190,0190-nm_71_70-Giese v Mountain States-Sasha.json,affirm
+0191,0191-nm_71_204-Ford v. Etheridge-Ayban.json,reverse
+0193,0193-nm_83_610-Latimer ex rel. Grayes v. City of Clovis-Ayban.json,reverse
+0194,0194-nm_83_680-Williams v. Herrera-Ayban.json,mixed
+0197,0197-nm_83_802-Witzke v. Dettweiler-Ayban.json,affirm
+0199,0199-nm_73_40-Dillard v. Southwestern Public Service Co.-Ayban.json,affirm
+0216,"0216-nm_90_753-Pharmaseal Laboratories, Inc. v. Goffe-Ayban.json",mixed
+0223,0223-nm_87_383-Maxwell ex rel. Maxwell v. Santa Fe Public School-Ayban.json,affirm
+0224,0224-nm_90_174-Griego v. Grieco-Ayban.json,mixed
+0225,0225-nm_88_565-Moya v. Warren-Ayban.json,affirm
+0227,0227-nm_86_763-Hines v. St Joseph's Hospital-Ayban.json,affirm
+0229,0229-nm_76_703-Trujillo v. Chavez-Ayban.json,reverse
+0231,0231-nm_76_122-Lindsay v. Hartog-Ayban.json,affirm
+0232,"0232-nm_76_278-Bailey v. Jeffries-Eaves, Inc-Ayban.json",mixed
+0244,"0244-nm_74_391-Walker ex rel. Walker v. C & C Contractors, Inc-Ayban.json",reverse
+0247,0247-nm_81_143-Perry v. Color Tile-Ayban.json,affirm
+0249,0249-nm_71_221-Woods v. Brumlop-Ayban.json,reverse
+0259,0259-nm_69_164-Alaniz v. Funk-Ayban.json,affirm
+0260,0260-nm_69_394-Ware v. Cattaneo-Ayban.json,reverse
+0261,0261-nm_69_443-Gallegos ex rel. Gallegos v. McKee-Ayban.json,affirm
+0264,0264-nm_89_627-Becker v. Hidalgo-Ayban.json,reverse
+0265,0265-nm_89_555-Cox v. Cox-Ayban.json,affirm
+0267,0267-nm_78_406-Crouch v. Most-Ayban.json,affirm
+0268,0268-nm_78_63-Hughes v. Walker-Ayban.json,affirm
+0269,0269-nm_78_556-Lujan v. Reed-Ayban.json,affirm
+0270,0270-nm_78_53-Stephens v. Dulaney-Ayban.json,reverse
+0272,0272-nm_84_50-Smith v. Klebanoff-Ayban.json,affirm
+0274,0274-nm_84_222-LaBarge v. Stewart-Ayban.json,affirm
+0280,0280-nm_72_217-Hoskins v. Albuquerque Bus Co.-Ayban.json,affirm
+0284,0284-nm_67_10-Lucero ex rel. Lucero v. Torres-Ayban.json,affirm
+0294,0294_123 N.M. 537 - Sanchez v. San Juan Concrete Co..json,reverse
+0295,"0295_123 N.M. 170 Spectron Development Laboratory v. American Hollow Boring Co.,.json",mixed
+0302,"0302_148 N.M. 477 -Valdez v. R-Way, LLC.json",affirm
+0312,0312_126 N.M. 84 - Jaramillo v. Kellogg.json,affirm
+0313,0313_125 N.M. 564 -Stock v. Grantham.json,mixed
+0316,0316_125 N.M. 588 - Ryan v New Mexico State Highway - Alex .json,reverse
+0321,0321_135 N.M. 695 Young v Duyne - Alex .json,mixed
+0323,0323_138 N.M. 774 Akutagawa v. Laflin - Alex .json,affirm
+0325,0325_133 N.M. 432 - Saylor v Valles - Alex.json,affirm
+0326,0326_124 N.M. 97 Abeita v Norther Rio - Alex.json,mixed
+0336,0336_137 N.M. 401 Dominguez v Perovich - Alex.json,affirm
+0337,0337_136 N.M. 280 Morales v Reynolds - Alex.json,affirm
+0339,0339_136 N.M. 197 Bierner v. City of Truth or Consequences - Alex.json,affirm
+0356,0356_128 N.M. 255 Madsen v. Scott - Alex.json,reverse
+0384,0384-nm_107_430-Lewis v Rodriguez-Sasha.json,affirm
+0386,0386-nm_103_526-Wittkowski v State-Sasha.json,affirm
+0388,0388-nm_107_48-Estate of Baxter v Noce-Sasha.json,reverse
+0389,0389-nm_103_468-Karbel v Francis-Sasha.json,reverse
+0390,0390-nm_105_575-Valdez v Cillessen-Sasha.json,mixed
+0395,0395-nm_120_261-Mott v Sun Country-Sasha.json,affirm
+0398,0398-nm_120_430-Hinger v Parker-Sasha.json,mixed
+0400,0400-nm_104_379-Estate of Trujillo v Trujillo-Sasha.json,affirm
+0402,0402-nm_99_121-Padilla v Hooks International-Sasha.json,affirm
+0403,0403-nm_100_58-Porter v Ortiz-Sasha.json,reverse
+0404,0404-nm_100_461-Kabella v Bouschelle-Sasha.json,affirm
+0406,0406-nm_99_371-Equitable General Insurance v Silva-Sasha.json,affirm
+0407,0407-nm_121_585-Monett v Johnson-Sasha.json,reverse
+0408,0408-nm_121_71-Romero v Truchas Mutual Domestic Water Consume-Sasha.json,reverse
+0410,0410-nm_108_511-Wilschinsky v Medina-Sasha.json,reverse
+0411,0411-nm_108_198-Cumming v Nielson-Sasha.json,mixed
+0412,0412-nm_101_631-Walker v Key-Sasha.json,reverse
+0413,0413-nm_101_671-Schear v Board of County Commissioners-Sasha.json,reverse
+0416,0416-nm_117_71-Bell v New Mexico Interstate Stream Commission-Sasha.json,reverse
+0417,0417-nm_117_628-Reichert v Atler-Sasha.json,mixed
+0418,0418-nm_117_193-Sarracino v Martinez-Sasha.json,reverse
+0423,0423-nm_93_601-City of Belen v Harrell-Sasha.json,reverse
+0425,0425-nm_93_175-Mora-San Miguel Inc. v Hicks-Sasha.json,affirm
+0426,0426_nm-92_417-Cooper v Curry-Sasha.json,affirm
+0427,0427-nm_117_782-Lerma v State Highway Department-Sasha.json,reverse
+0428,0428-nm_117_665-Vigil v Miners Colfax Medical Center-Sasha.json,affirm
+0429,0429-nm_118_134-Ford v Board of County Commissioners-Sasha.json,mixed
+0430,0430-nm_118_100-Fernandez v Ford Motor Co-Sasha.json,reverse
+0432,0432-nm_97_728-McCurry v City of Farmington-Sasha.json,reverse
+0434,0434-nm_91_100-Patterson v Van Wiel-Sasha.json,affirm
+0435,0435-nm_91_651-Michael v Warner-Chilcott-Sasha.json,affirm
+0437,0437-nm_98_625-Lopez v Maez-Sasha.json,reverse
+0438,0438-nm_98_712-Livingston v Begay-Sasha.json,reverse
+0448,0448-nm_96_433-Doe v City of Albuquerque-Sasha.json,affirm
+0449,0449-nm_99_539-Ohlson v Kent Nowlin Construction Co-Sasha.json,mixed
+0451,0451-nm_98_710-MRC Properties v Gries-Sasha.json,affirm
+0454,0454-nm_102_373-Moreno v Marrs-Sasha.json,reverse
+0455,0455-nm_102_452-Kern v St. Joseph Hospital-Sasha.json,affirm
+0456,0456-nm_110_593-Andrus v Gas Co-Sasha.json,affirm
+0457,0457-nm_110_333-Schuch v Arthritis Foundation-Sasha.json,reverse
+0458,0458-nm_110_59-Calkins v Cox Estates-Sasha.json,reverse
+0464,0464-nm_94_473-Rickerson v State-Sasha.json,reverse
+0465,0465-nm_93_612-Harrell v City of Belen-Sasha.json,affirm
+0466,0466-nm_108_453-Wood v Angel Fire Ski Corp-Sasha.json,mixed
+0470,0470-nm_106_486-Osofsky v Galio-Sasha.json,affirm
+0474,0474-nm_116_101-Seal v Carlsbad Independent School District-Sasha.json,mixed
+0475,0475-nm_116_379-Torres v State-Sasha.json,affirm
+0477,0477-nm_113_38-Broome v Byrd-Sasha.json,reverse
+0479,0479-nm_113_153-Klopp v. Wackenhut Corp-Ayban.json,mixed
+0481,0481-nm_114_202-Lopez v. Ski Apache Resort-Ayban.json,reverse
+0483,0483-nm_114_452-Monett v. Dona Ana County Sheriff’s Posse-Ayban.json,mixed
+0485,0485-nm_112_788-Diaz v McMahon-Ayban.json,reverse
+0488,0488-nm_115_41-Narney v Daniels-Ayban.json,mixed
+0489,0489-nm_113_566-Solon ex rel Estate of Ponce v WEK Drilling Co-Ayban.json,affirm
+0492,0492-nm_116_626-Marquez ex rel Estate of Marquez v Gomez-Ayban.json,mixed
+0496,0496-nm_111_644-Bober v New Mexico State Fair-Ayban.json,mixed
+0500,"0500-nm_106_175-Savinsky v Bromley Group, Ltd-Ayban.json",mixed
+0502,0502-nm_71_320-Srader v. Pecos Construction Co-Ayban.json,reverse
+0503,"0503-nm_71_377-Hallett v. Furr's, Inc-Ayban.json",affirm
+0504,0504-nm_71_244-Mahoney v. J. C. Penney Co-Ayban.json,affirm
+0505,0505-nm_75_39-DeArman v. Popps-Ayban.json,reverse
+0506,0506-nm_75_522-Hole v. Womack-Ayban.json,affirm
+0509,0509-nm_77_174-Villanueva v. Nowlin-Ayban.json,affirm
+0510,0510-nm_77_769-Fitzgerald v. Valdez-Ayban.json,reverse
+0511,0511-nm_83_336-Williamson v. Smith-Ayban.json,reverse
+0512,0512-nm_83_58-Proctor v. Waxler-Ayban.json,reverse
+0513,0513-nm_83_730-Stang v. Hertz Corp.-Ayban.json,reverse
+0514,0514-nm_80_502-Barham v. Baca-Ayban.json,affirm
+0516,0516-nm_89_32-Montanez v. Cass-Ayban.json,reverse
+0517,0517-nm_73_1-Baca v. Britt-Ayban.json,affirm
+0518,0518-nm_73_303-Stake v. Woman’s Division of Christian Service of the Board of Missions-Ayban.json,affirm
+0519,"0519-nm_68_130-Landers v. Atchison, Topeka & Santa Fe Railway Co.-Ayban.json",reverse
+0525,0525-nm_90_471-Mitchell v. C & H Transportation Co.-Ayban.json,reverse
+0526,0526-nm_90_386-Kight v. Butscher-Ayban.json,reverse
+0528,0528-nm_90_48-Withrow v. Woozencraft-Ayban.json,reverse
+0529,0529-nm_90_83-Barbieri v. Jennings-Ayban.json,affirm
+0530,0530-nm_87_68-Neff v. Woodmen of the World Life Insurance Society-Ayban.json,affirm
+0536,0536-nm_122_113-Tanuz v. Carlberg-Ayban.json,affirm
+0541,0541-nm_74_348-Schall ex rel. Estate of Braswell v. Mondragon-Ayban.json,affirm
+0545,0545-nm_81_734-Baca v. Baca-Ayban.json,affirm
+0546,0546-nm_81_217-Rutledge v. Johnson-Ayban.json,affirm
+0547,0547-nm_81_759-Paddock v. Schuelke-Ayban.json,reverse
+0550,0550-nm_71_186-Coca v. Arceo-Ayban.json,reverse
+0556,"0556-nm_77_717-Sanchez v. J. Barron Rice, Inc.-Ayban.json",reverse
+0557,0557-nm_77_257-Baker v. Fryar-Ayban.json,reverse
+0558,0558-nm_89_278-New Mexico Electric Service Co. v. Montanez-Ayban.json,mixed
+0561,0561-nm_84_80-Harmon ex rel. estate of Harmon v. Farmers Market Food Store-Ayban.json,affirm
+0562,0562-nm_84_361-Proctor v. Waxler-Ayban.json,reverse
+0564,0564-nm_70_58-Ortega v. Texas-New Mexico Railway Co.-Ayban.json,affirm
+0565,0565-nm_109_271-Schleft v. Board of Education of the Los Alamos Public Schools-Ayban.json,reverse
+0570,0570-nm_128_171-Chavez v. Torres-Ayban.json,affirm
+0571,0571-nm_123_482-Stinson v. Berry-Ayban.json,reverse
+0575,0575-nm_131_87-Smith v. Bryco Arms-Ayban.json,reverse
+0577,0577_148 N.M. 81 - Ross v. City of Las Cruces.json,affirm
+0578,"0578_147 N.M. 62 Crespin v. Albuquerque Baseball Club, LLC.json",mixed
+0588,0588_125 N.M. 762 Villanueva v. City of Tucumcari.json,mixed
+0590,0590_141 N.M. 252 Estate of Haar v. Ulwelling .json,affirm
+0592,0592_141 N.M. 116 Chavez ex rel. Baca v. Desert Eagle Distributing Co..json,affirm
+0595,0595_140 N.M. 596 - Johnstone v. City of Albuquerque.json,affirm
+0601,0601_127 N.M. 521 Pollock v. State Highway & Transportation Department.json,reverse
+0603,0603_135 N.M. 554 Spencer v. University of New Mexico Hospital.json,affirm
+0607,0607_138 N.M. 184 Jacobo v. City of Albuquerque.json,reverse
+0610,0610_124 N.M. 488 Williams v. Central Consolidated School District.json,reverse
+0613,0613_124 N.M. 296 Gabalbon ex rel. Baldizan v. Erisa Mortgage Co..json,mixed
+0614,0614_134 N.M. 789 Blake v. Public Service Co..json,affirm
+0618,0618_145 N.M. 113 Ovecka v. Burlington Northern Santa Fe Railway Co..json,affirm
+0619,"0619_146 N.M. 520 Romero v. Giant Stop-N-Go of New Mexico, Inc..json",affirm
+0623,0623_136 N.M. 658 Solorzano v. Bristow.json,reverse
+0633,0633_143 N.M. 297 Baldonado v. El Paso Natural Gas Co..json,mixed
+0634,0634_126 N.M. 404 Lester ex rel. Mavrogenis v. Hall.json,affirm
+0636,0636_126 N.M. 263 Fernandez v. Walgreen Hastings Co..json,mixed
+0640,"0640_137 N.M. 64 Spencer v. Health Force, Inc..json",reverse
+0648,0648_122 N.M. 675 Gourdi v. Berkelo.json,reverse
+0655,0655_150 N.M. 97 - Delfino v. Griffo.json,reverse
+0656,0656_145 N.M. 4 Tafoya v. Rael.json,mixed
+0658,0658_133 N.M. 756 Rutherford v. Chaves County.json,affirm
+0661,0661_134 N.M. 43 Herrera ex rel. Estate of Ruiz v. Quality Pontiac.json,reverse
+0668,0668_144 N.M. 314 Lessen v. City of Albuquerque.json,affirm
+0670,0670_129 N.M. 632 Acosta v. City of Santa Fe.json,affirm
+0672,0672_129 N.M. 721 Hermosillo v. Leadingham.json,affirm
+0676,0676-ark_249_671-Lindle v Shibley-Sasha.json,reverse
+0677,0677-ark_249_1143-Revelle v Alexander-Sasha.json,affirm
+0678,0678-ark_247_406-Missouri-Pacific Truck Line v Riley-Sasha.json,reverse
+0679,0679-ark_247_862-Jackson v McCuiston-Sasha.json,reverse
+0680,0680-ark_243_698-Jones v Ferguson-Sasha.json,affirm
+0681,0681-ark_252_925-Davis v Kemp-Sasha.json,affirm
+0683,0683-ark_250_720-Glover v Stotts-Sasha.json,affirm
+0684,0684-ark_250_1094-Missouri Pacific Railroad v Ballard-Sasha.json,affirm
+0686,0686-ark_329_405-Ouachita Wilderness Institute v Mergen-Sasha.json,affirm
+0689,0689-ark_331_58-Wallace v Broyles-Sasha.json,reverse
+0691,0691-ark_331_426-Wolford v St. Paul Fire & Marine Insurance-Sasha.json,mixed
+0694,0694-ark_340_203-City of Caddo Valley v George-Sasha.json,affirm
+0700,0700-ark_350_254-Webb v Bouton-Sasha.json,affirm
+0702,0702-ark_324_226-Diamond State Towing Co v Cash-Sasha.json,affirm
+0708,"0708-ark_508_915-Frisby v Agerton Logging, Inc-Sasha.json",reverse
+0715,0715-ark_320_56-Waggoner v Troutman Oil Co-Sasha.json,affirm
+0716,0716-ark_320_615-Williams v Ingram-Sasha.json,affirm
+0717,0717-ark_320_394-Taylor v Riddell-Sasha.json,affirm
+0718,0718-ark_320_444-City of Little Rock v Cameron-Sasha.json,affirm
+0721,0721-ark_319_648-Thomson v Littlefield-Sasha.json,affirm
+0723,0723-ark_321_482-Wade v Grace-Sasha.json,affirm
+0729,0729-ark_28_27-Hensley v White River Medical Center-Sasha.json,affirm
+0738,0738-ark_73_276-Martin v Hearn Spurlock-Sasha.json,reverse
+0740,0740-ark_72_102-Kristie’s Katering v Ameri-Sasha.json,affirm
+0741,0741-ark_72_141-Maneth v Tucker-Sasha.json,reverse
+0757,0757-ark_254_620-Leslie v Burrow-Sasha.json,affirm
+0761,0761-ark_sw3d_422_13-Hartman v Edwards-Sasha.json,affirm
+0764,0764-ark_sw3d_518_683-Hagar v Shull-Sasha.json,affirm
+0765,0765-ark-app_87_26-Thomas v Pierce-Sasha.json,reverse
+0769,0769-ark_327_367-Ambrus v Russell Chevrolet Co-Sasha.json,affirm
+0777,0777-ark_368_328-Chapman v Ford Motor Companies-Sasha.json,affirm
+0782,0782-ark_101_424-Scott v Central Arkansas Nursing Centers-Sasha.json,mixed
+0797,"0797-ark_361_192-Koch v. Northport Health Services of Arkansas, LLC-Ayban.json",mixed
+0805,"0805-ark_sw3d_431_321-Davis v. Schneider National, Inc.-Ayban.json",affirm
+0806,"0806-ark_sw3d_432_682-Heritage Physician Group, P.A. v. Minton-Ayban.json",affirm
+0810,0810-ark_370_268-Wagner v. General Motors Corp.-Ayban.json,reverse
+0815,0815-ark_app_93_366-Mitchell v. Lincoln-Ayban.json,reverse
+0816,"0816-ark_app_93_135-Cowan v. Ellison Enterprises, Inc.-Ayban.json",affirm
+0818,0818-ark_app_100_24-Nelms v. Martin-Ayban.json,affirm
+0819,0819-ark_app_100_364-Graftenreed v. Seabaugh-Ayban.json,affirm
+0823,"0823-ark_app_85_231-Wal-Mart Stores, Inc. v. Kilgore-Ayban.json",affirm
+0825,"0825-ark_app_61_124-Burns v. Boot Scooters, Inc.-Ayban.json",reverse
+0839,0839-ark_329_108-Wiles v. Webb-Ayban.json,reverse
+0840,0840-ark_345_476-Ethyl Corp. v. Johnson-Ayban.json,reverse
+0841,0841-ark_338_43-New Maumelle Harbor v. Rochelle-Ayban.json,reverse
+0850,0850-ark_323_769-National Bank of Commerce v. Quirk-Ayban.json,mixed
+0857,0857-ark_354_695-Dovers v. Stephenson Oil Co.-Ayban.json,affirm
+0858,0858-ark_291_512-Garst v. Cullum-Ayban.json,affirm
+0860,"0860-ark_295_90-Earnest v. Joe Works Chevrolet, Inc.-Ayban.json",affirm
+0864,0864-ark_313_465-Arkansas Kraft v. Cottrell-Ayban.json,reverse
+0870,0870-ark_312_411-Wheeler v. Bennett-Ayban.json,affirm
+0871,"0871-ark_312_240-Barnes, Quinn, Flake & Anderson, Inc. v. Rankins-Ayban.json",affirm
+0872,0872-ark_266_1020-St. Paul Fire & Marine Insurance v. Prothro-Ayban.json,affirm
+0873,0873-ark_232_133-Erhart v. Hummonds-Ayban.json,affirm
+0874,0874-ark_242_858-St. Louis Southwestern Railway Co. v. Jackson-Ayban.json,reverse
+0875,0875-ark_241_940-Parker v. Price-Ayban.json,affirm
+0876,0876-ark_242_10-Johnson v. Nelson-Ayban.json,affirm
+0878,"0878-ark_242_97-Walker v. Wittenberg, Delony & Davidson, Inc.-Ayban.json",affirm
+0879,0879-ark_242_757-St. Louis Southwestern Railway Co. v. Farrell-Ayban.json,affirm
+0881,0881-ark_251_519-Purtle v. Shelton-Ayban.json,affirm
+0884,0884-ark_264_406-Napier v. Northrum-Ayban.json,affirm
+0885,0885-ark_268_476-Fuller v. Starnes-Ayban.json,affirm
+0886,0886-ark_239_151-Cobb v. Atkins-Ayban.json,affirm
+0887,0887-ark_271_176-McClain v. Giles-Ayban.json,affirm
+0888,0888-ark_262_96-Bill C. Harris Construction Co. v. Powers-Ayban.json,reverse
+0891,0891-ark_262_290-Duke v. Lovell-Ayban.json,reverse
+0893,0893-ark_261_13-Verson Allsteel Press Co. v. Garner-Ayban.json,reverse
+0895,"0895-ark_264_691-St. Mary's Hospital, Inc. v. Bynum-Ayban.json",reverse
+0897,0897-ark_263_787-White v. Mitchell-Ayban.json,affirm
+0898,0898-ark_236_325-Harrelson v. Whitehead-Ayban.json,affirm
+0900,0900-ark_299_380-Courteau v. Dodd-Ayban.json,affirm
+0902,"0902-ark_311_41-Lively v. Libbey Memorial Physical Medicine Center, Inc.-Ayban.json",reverse
+0904,0904-ark_305_77-Reagan v. City of Piggott-Ayban.json,affirm
+0905,0905-ark_305_383-Schmidt v. Gibbs-Ayban.json,mixed
+0907,0907-ark_304_70-Arkansas Valley Electric Cooperative Corp. v. Davis-Ayban.json,affirm
+0912,0912-ark_303_576-Turrise v. Crane-Ayban.json,affirm
+0913,0913-ark_310_571-Ray v. Green-Ayban.json,affirm
+0915,0915-ark_310_624-White River Rural Water District v. Moon-Ayban.json,affirm
+0926,0926_295 Ark. 603 Scully v. Middleton.json,affirm
+0928,0928_299 Ark. 136 Stacks v. Arkansas Power & Light Co.json,reverse
+0931,0931_298 Ark. 97 Nationwide Rentals Co. v. Carter.json,affirm
+0942,0942_293 Ark. 547 Prater v. St. Paul Insurane.json,reverse
+0946,0946_239 Ark. 1001 Ark. La. Gas Co. v. Stracener.json,reverse
+0947,0947_239 Ark. 935 Williams v. Gilbert.json,reverse
+0959,0959_309 Ark. 472 Dorton v. Francisco.json,affirm
+0960,0960_244 Ark. 60 Bergetz v. Repka.json,reverse
+0961,0961_248 Ark. 6 Graham v. Sisco.json,reverse
+0965,0965_255 Ark. 409 Home Insurance v. Covington.json,affirm
+0979,"0979_2015 Ark. App. 194 Gilbow v. Crawford, 458 S.W.3d 750.json",affirm
+0996,"0996_2011 Ark. App. 506  Villines v. North Arkansas Regional Medical Center, 385 S.W.3d 360.json",reverse
+1014,"1014_536 S.W.3d 147, 2017 Ark. App. 641 Barnett v. Cleghorn.json",reverse
+1020,"1020_88 Ark. App. 284, 198 S.W.3d 127  Marx v. Huron Little Rock.json",reverse
+1024,"1024_103 Ark. App. 36, 286 S.W.3d 169  Lee v. Martindale.json",mixed
+1039,1039_275 Ark. 400 Baxter v. Grobmyer Bros.json,affirm
+1041,1041-ark_247_651-Elliott v W. E. Clark & Sons-Sasha.json,reverse
+1042,1042-ark_245_641-Little Rock Land Co v Raper-Sasha.json,affirm
+1043,1043-ark_329_143-Shannon v Wilson-Sasha.json,reverse
+1044,1044-ark_330_174-Union Pacific Railroad v Sharp-Sasha.json,mixed
+1045,1045-ark_330_687-Wilson v Rebsamen Insurance-Sasha.json,reverse
+1046,1046-ark_330_837-Steward v McDonald-Sasha.json,reverse
+1047,1047-ark_332_315-Heigle v Miller-Sasha.json,reverse
+1050,"1050-ark_336_456-D.B. Griffin Warehouse, Inc. v Sanders-Sasha.json",reverse
+1051,1051-ark_335_96-Dodson v Charter Behavioral Health System-Sasha.json,mixed
+1056,1056-ark_347_963-Cadillac Cowboy v Jackson-Sasha.json,affirm
+1058,1058-ark_349_94-D.B. Griffin Warehouse v Sanders-Sasha.json,reverse
+1059,1059-ark_318_663-Jenkins v International Paper Co-Sasha.json,affirm
+1061,1061-ark_324_416-Boren v Worthen National Bank of Arkansas-Sasha.json,affirm
+1062,1062-ark_323_188-Smith v Hansen-Sasha.json,mixed
+1066,1066-ark_321_210-First Commercial Trust v Lorcin Engineering-Sasha.json,affirm
+1067,1067-ark_320_473-Mahan v Hall-Sasha.json,affirm
+1069,1069-ark_319_117-Bartley v Sweetser-Sasha.json,affirm
+1070,1070-ark_320_561-Bader v Lawson-Sasha.json,affirm
+1071,1071-ark_sw3d_473_52-Henderson v Tyson Foods-Sasha.json,affirm
+1073,"1073-ark_sw3d_379_515-Crenshaw v Arkansas Warehouse, Inc-Sasha.json",affirm
+1075,1075-ark_366_365-Lacy v Flake & Kelley Management-Sasha.json,affirm
+1076,1076-ark_sw3d_420_477-Watkins v. Arkansas Elder Outreach of Little Rock-Sasha.json,mixed
+1077,1077-ark-app_73_358-Tackett v Merchant's Security Patrol-Sasha.json,affirm
+1079,1079-ark-app_94_171-Bradley v Welch-Sasha.json,affirm
+1081,"1081-ark-app_68_120-Conagra, Inc. v. Strother-Sasha.json",affirm
+1083,1083-ark-app_95_37-Ken's Discount Building Materials v Meeks-Sasha.json,reverse
+1084,1084-ark_sw3d_386_493-Bedell v Williams-Sasha.json,reverse
+1085,1085-ark_sw3d_386_439-Yanmar Co. v Slater-Sasha.json,reverse
+1089,1089-ark_sw3d_460_805-Ivory v Woodruff Electric-Sasha.json,reverse
+1092,1092_ark_sw3d_378_109-Kowalski v. Rose Drugs of Dardanelle-Sasha.json,affirm
+1093,1093-ark-app_87_19-Anderson v. Mitts-Sasha.json,reverse
+1094,1094-ark-app_87_349-Autozone v. Horton-Sasha.json,reverse
+1097,1097-ark_369_318-McMickle v. Griffin-Sasha.json,mixed
+1100,"1100-ark_sw3d_520_268-R&L Carriers Shared Services, LLC v. Markley-Sasha.json",affirm
+1101,1101-ark_sw3d_495_628-Hadder v. Heritage Hill Manor-Sasha.json,affirm
+1104,1104-ark_358_107-Nucor Corp. v. Kilman-Sasha.json,mixed
+1107,1107-ark-app_102_389-Bell v. Misenheimer-Sasha.json,reverse
+1112,1112-ark-app_92_214-Little v. Jonesboro Country Club-Ayban.json,reverse
+1115,1115-ark-app_2012_193-Pace v. Davis-Ayban.json,affirm
+1117,"1117-ark_361_209-Young v. Gastro Intestinal Center, Inc.-Ayban.json",affirm
+1120,"1120-ark-app_2009_190-Thompson v. Sparks Regional Medical Center, 302 S.W.3d 35, 2009 Ark. App. 190-Ayban.json",affirm
+1124,1124-ark-app_2015-487-Lloyd v. Pier West Property Owners Ass'n-Ayban.json,reverse
+1125,1125-ark-app_2018_33-Duran v. Southwest Arkansas Electric Cooperative Corp.-Ayban.json,affirm
+1127,1127-ark-app_2017_111-Havner v. Northeast Arkansas Electric Cooperative-Ayban.json,affirm
+1181,1181_316 Ark. 655 Young v. Paxton.json,affirm
+1190,"1190_279 Ark. 294 Keck v. American Employment Agency, Inc..json",reverse
+1212,"1212_2009 Ark. App. 734 Culhane v. Oxford Ridge, LLC, 362 S.W.3d 325.json",affirm
+1213,"1213_2010 Ark. 8  Archer v. Sigma Tau Gamma Alpha Epsilon, Inc., 362 S.W.3d 303.json",affirm
+1216,"1216_359 Ark. 340 Clark v. Transcontinental Insurance, 197 S.W.3d 449 (2004).json",reverse
+1225,"1225_2011 Ark. App. 353 Bussey v. Bearden, 384 S.W.3d 41.json",affirm
+1229,"1229_97 Ark. App. 323 Delt v. Bowers, 249 S.W.3d 162 (2007).json",affirm
+1232,1232_81 Ark. App. 157 Crenshaw v. Doubletree Corp. 98 S.W.3d 836 (2003).json,affirm
+1234,"1234_91 Ark. App. 43 Slavin v. Plumbers & Steamfitters Local 29, 207 S.W.3d 586 .json",affirm
+1236,"1236_81 Ark. App. 379 Van DeVeer v. RTJ, Inc..json",reverse
+1237,"1237_Lowry v. McCorkle, 474 S.W.3d 87 (2015).json",reverse
+1241,"1241_355 Ark. 460 Moses v. Bridgeman, 139 S.W.3d 503 (2003).json",affirm
+1242,"1242_2016 Ark. App. 220 Weisker v. Harvest Management Sub LLC, 489 S.W.3d 696 (2016).json",affirm
+1244,"1244_64 Ark. App. 58 Jordan v. Jerry D. Sweetser, Inc., 977 S.W.2d 244 (1998).json",affirm
+1247,1247-ill-ct-cl_48_449-Washington v State-Sasha.json,reverse
+1252,1252-ill-2d_176_1-Advincula v United Blood Services-Sasha.json,reverse
+1259,1259-ill-app-3d_284_435-Scerba v City of Chicago-Sasha.json,mixed
+1263,1263-ill-app-3d_291_22-Ruperd v Ryan-Sasha.json,affirm
+1264,1264-ill-app-3d_291_530-Clausen v. Carroll-Sasha.json,reverse
+1266,1266-ill-app-3d_291_265-Proctor v. Davis-Sasha.json,mixed
+1269,1269-ill-app-3d_289_634-O'Donnell v. Holy Family Hospital-Sasha.json,affirm
+1275,1275-ill-app-3d_281_903-Yager v. Illinois Bell Telephone Co-Sasha.json,reverse
+1279,1279-ill-ct-cl_49_115-Johnson-Bey v. State-Sasha.json,reverse
+1281,1281-ill-ct-cl_49_93-Davis v. State-Sasha.json,reverse
+1283,1283-ill-app-3d_282_1004-Groce v. South Chicago Community Hospital-Sasha.json,reverse
+1285,1285-ill-app-3d_282_248-Cohan v. Garretson-Sasha.json,mixed
+1289,1289-ill-ap-3d_283_421-Baylie v. Swift & Co-Sasha.json,affirm
+1293,1293-ill-app-3d_287_160-Mostafa v. City of Hickory Hills-Sasha.json,affirm
+1302,1302-ill-app-3d_292_580-Hobart v. Shin-Sasha.json,reverse
+1303,1303-ill-app-3d_292_148-Hubbard v. Sherman Hospital-Sasha.json,affirm
+1310,"1310-ill-app-3d_294_449-Umble v. Sandy McKie & Sons, Inc-Sasha.json",affirm
+1313,1313-ill-app-3d_293_940-Jania v. Aguilera-Sasha.json,reverse
+1316,1316-ill-app-3d_293_931-Burlingame v. Chicago Park District-Sasha.json,affirm
+1317,1317-ill-app-3d_293_720-Malanowski v. Jabamoni-Sasha.json,mixed
+1321,1321-ill0ct-cl_50_287-Whitehead v. State-Sasha.json,affirm
+1322,1322-ill-ct-cl_50_116-Scott v. State-Sasha.json,reverse
+1323,1323-ill-ct-cl_50_162-Keene v. State-Sasha.json,reverse
+1332,1332-ill-ct-cl_50_194-Von Moore v. State-Sasha.json,reverse
+1334,1334-ill-app-3d_298_316-Prairie v. University of Chicago Hospitals-Sasha.json,reverse
+1335,1335-ill-app-3d_299_964-Wojcik v. City of Chicago-Sasha.json,affirm
+1340,1340-ill-app-3d_299_495-Parker v. Illinois Masonic Warren Barr Pavilion-Sasha.json,mixed
+1342,1342-ill-ct-cl_51_269-Rasbaugh v. State-Sasha.json,reverse
+1343,1343-ill-ct-cl_51_65-LaVelle v. State-Sasha.json,reverse
+1344,1344-ill-ct-cl_51_360-Cahel v. State-Sasha.json,reverse
+1345,1345-ill-ct-cl_51_32-Margolis v. State-Sasha.json,reverse
+1346,1346-ill-ct-cl_51_576-In re Buss-Sasha.json,affirm
+1348,1348-ill-app-3d_301_103-Jones v. Chicago HMO Ltd-Sasha.json,mixed
+1354,1354-ill-2d_185_283-Hobart v. Shin-Sasha.json,reverse
+1356,1356-ill-ct-cl_51_98-Koss v. State-Sasha.json,affirm
+1357,1357-ill-ct-cl_51_307-Naughton v. State-Sasha.json,reverse
+1358,1358-ill-ct-cl_52_187-Laughary v. State-Sasha.json,reverse
+1359,1359-ill-ct-cl_52_11-Williams-El v. State-Sasha.json,reverse
+1360,1360-ill-ct-cl_52_164-Paul v. Department of Transportation-Sasha.json,reverse
+1361,1361-ill-ct-cl_52_31-Rush v. State-Sasha.json,reverse
+1362,1362-ill-ct-cl_52_92-Moroz v. State-Sasha.json,affirm
+1363,1363-ill-app-3d_304_274-Bowden v. Cary Fire Protection District-Sasha.json,affirm
+1366,1366-ill-app-3d_302_763-Mark Twain Illinois Bank v. Clinton County-Sasha.json,mixed
+1367,1367-ill-app-3d_302_879-Modelski v. Navistar International Transportation Corp-Sasha.json,mixed
+1370,1370-ill-app-3d_306_356-Sanders v. City of Chicago-Sasha.json,mixed
+1371,1371-ill-app-3d_306_735-Niewold v. Fry-Sasha.json,affirm
+1373,"1373-ill-app-3d_304_900-Shvartsman v. Septran, Inc.-Sasha.json",reverse
+1375,1375-ill-app-3d_304_697-McGrew v. Pearlman-Sasha.json,affirm
+1379,1379-ill-app-3d_303_544-Lloyd v. County of Du Page-Sasha.json,mixed
+1380,1380-ill-ct-cl_53_128-Block v. State-Sasha.json,reverse
+1387,1387-ill-app-3d_313_326-Schuler v. Mid-Central Cardiology-Sasha.json,affirm
+1388,1388-ill--app-3d_314_527-Harris Trust & Savings Bank v. Abraham-Zwirn-Sasha.json,affirm
+1392,1392-ill-app-3d_325_606-Tinder v. Illinois Power Co.-Sasha.json,affirm
+1394,1394-ill-app-3d_325_458-Sinclair v. Berlin-Sasha.json,affirm
+1395,1395-ill-app-3d_325_232-Appelhans v. McFall-Sasha.json,affirm
+1398,1398-ill-ct-cl_53_135-Williams v. State-Sasha.json,affirm
+1401,1401-ill-ct-cl_53_168-Cadena v. State-Sasha.json,reverse
+1403,1403-ill-app-3d_318_1128-Rogers v. Clark Equipment Co-Sasha.json,affirm
+1409,1409-ill-app-3d_307_655-Bartelli v. O'Brien-Sasha.json,reverse
+1410,1410-ill-app-3d_308-121-Van Hattem v. K Mart Corp-Sasha.json,reverse
+1414,1414-ill-app-3d_Young v. Forgas-Sasha.json,mixed
+1423,1423-ill-app-3d_328_1056-Weidner v. Midcon Corp.-Sasha.json,affirm
+1425,1425-ill-2d_199_483-Dillon v. Evanston Hospital-Sasha.json,mixed
+1430,1430-ill-app-3d_329_562-Maffett v. Bliss-Sasha.json,reverse
+1433,1433-ill-2d_201_1-Sollami v. Eaton-Sasha.json,reverse
+1435,1435-ill-2d_201_424-Evans v. Shannon-Sasha.json,reverse
+1440,1440-ill-2d_204_1-Snelson v. Kamm-Sasha.json,affirm
+1442,1442-ill-app-2d_111_391-Sherman v. City of Springfield-Sasha.json,affirm
+1443,1443-ill-app-2d_104_1-Lukasik v. Hajdas-Sasha.json,reverse
+1444,1444-ill-app-2d_105_251-Holderness v. Checker Taxi Co-Sasha.json,affirm
+1445,1445-ill-app-2d_107_326-Greenlee Bros. & Co. v. Rockford Chair & Furniture Co-Sasha.json,affirm
+1446,1446-ill-app-2d_118_278-Crown v. Village of Elmwood Park-Sasha.json,affirm
+1448,1448-ill-app-2d_122_156-Thorson v. Aronson-Sasha.json,affirm
+1451,1451-ill-app-2d_122_71-Gubbe v. Catholic Diocese-Sasha.json,affirm
+1452,1452-ill-app-2d_125_306-Freehill v. De Witt County Service Co-Sasha.json,reverse
+1453,"1453-ill-app-2d_113_416-Ryan v. Robeson's, Inc-Sasha.json",affirm
+1454,1454-ill-app-2d_112_255-Wolfe v. Whipple-Sasha.json,reverse
+1455,1455-ill-app-3d_335_265-Sullivan v. Edward Hospital-Sasha.json,affirm
+1459,1459-ill-app-3d_331_206-Hendrix v. Stepanek-Sasha.json,affirm
+1461,1461-ill-app-3d_331_643-Schiff v. Friberg-Sasha.json,affirm
+1465,1465-ill-app-3d_336_292-Doe v. Dimovski-Sasha.json,reverse
+1467,"1467-ill-app-3d_336_52-Preze v. Borden Chemical, Inc-Sasha.json",mixed
+1469,1469-ill-app-3d_336_624-Romine v. Village of Irving-Sasha.json,affirm
+1474,1474-ill-app-3d_323_514-Montgomery v. Petty Management Corp-Sasha.json,affirm
+1480,1480-ill-app-3d_319_116-Snelson v. Kamm-Sasha.json,affirm
+1482,"1482-ill-ct-cl_30_410_2760247-Ohms v. State of Illinois, Division of Highways-Sasha.json",affirm
+1483,"1483-ill-ct-cl_30_156_2738417-Hood v. State of Illinois, Department of Mental Health-Sasha.json",affirm
+1484,1484-ill-ct-cl_39_185-Davis v. State-Sasha.json,reverse
+1485,1485-ill-ct-cl_39_107-Stanley v. Board of Trustees-Sasha.json,reverse
+1491,1491-ill-app-3d_235_463-Oquendo v. Pines-Sasha.json,affirm
+1492,1492-ill-app-3d_235_799-Haist v. Wu-Sasha.json,affirm
+1495,1495-ill-app-3d_105_681-Fornoff v. Parke Davis & Co.-Sasha.json,affirm
+1496,1496-ill-app-3d_105_521-Stringer v. Zacheis-Sasha.json,affirm
+1499,1499-ill-app-3d_92_193-Duffy v. Midlothian Country Club-Sasha.json,reverse
+1503,1503-ill-app-3d_92_739-Pitler v. Michael Reese Hospital-Sasha.json,mixed
+1504,1504-ill-app-3d_189_785-Maroldy v. Isaacson-Sasha.json,reverse
+1509,1509-ill-app-3d_354_241-Myers v. Heritage Enterprises-Sasha.json,reverse
+1512,1512-ill-app-3d_342_530-DiCosola v. Bowman-Sasha.json,mixed
+1515,1515-ill-app-3d_342_248-Suwanski v. Village of Lombard-Sasha.json,reverse
+1523,1523-ill-app-3d_180_796-Mitchell v. Wayne Corp-Sasha.json,affirm
+1526,1526-ill-app-3d_72_7-Regas v. Linton-Sasha.json,reverse
+1529,1529-ill-app-3d_105_992-Peterson v. Campbell-Sasha.json,affirm
+1534,1534-ill-app-3d_225_56-Mazzone v. Chicago & North Western Transportation-Sasha.json,affirm
+1535,1535-ill-app-3d_117_933-Fuller v. Justice-Sasha.json,affirm
+1536,1536-ill-app-3d_117_1-Guebard v. Jabaay-Sasha.json,mixed
+1538,1538-ill-app-3d_117_100-Nichelson v. Curtis-Sasha.json,affirm
+1539,1539-ill-app-3d_226_236-Uhr v. Lutheran General Hospital-Sasha.json,affirm
+1543,"1543-ill-app-3d_167_685-Eichler v. Plitt Theatres, Inc-Sasha.json",mixed
+1545,1545-ill-app-3d_224_330-Lassai v. Holy Cross Hospital-Sasha.json,reverse
+1549,1549-ill-app-3d_189_1091-Crutchfield v. Yellow Cab Co.-Sasha.json,affirm
+1550,1550-ill-app-3d_181_609-Gerwig v. Bruere-Sasha.json,affirm
+1551,1551-ill-app-3d_222_862-Santelli v. City of Chicago-Sasha.json,reverse
+1552,1552-ill-app-3d_222_487-Hamrock v. Henry-Sasha.json,affirm
+1554,1554-ill-app-3d_222_367-Hamrock v. Rendleman-Sasha.json,mixed
+1559,1559-ill-app-3d_214_368-Rock v Pickleman-Sasha.json,reverse
+1561,1561-ill-app-3d_198_209-Schuchman v. Stackable-Sasha.json,affirm
+1562,1562-ill-app-3d_198_891-Roberts v. Sisters of Saint Francis Health Services-Sasha.json,affirm
+1564,1564-ill-app-3d_59_542-Thomas v. Lynch-Sasha.json,reverse
+1565,1565-ill-app-3d_44_305-Deagon v. Pedersen-Sasha.json,reverse
